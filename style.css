@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Fasthand&family=Edu+NSW+ACT+Foundation&display=swap');
+
+header {
+    background-color:ivory;
+}
+
+nav {
+    height: 40px;
+    padding: 0 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Edu NSW ACT Foundation";
+    font-size: 30px;
+    background-color: aquamarine;
+}
+
+header {
+    font-family: "Edu NSW ACT Foundation";
+    text-align: center;
+    color:darkslategrey;
+}
+
+p {
+    font-size:20px;
+    display:flex;
+    align-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    color:navy;
+
+}
+
+img {
+    width: 700px;
+    border: 3px solid brown;
+}
+
+h1:hover {
+    font-style:bold;
+    text-transform: uppercase;
+}
+
+img:active {
+    width:1400px;
+}
+
+footer {
+    font-size:30px;
+    font-family: "Edu NSW ACT Foundation";
+    text-align: center;
+    margin-top: 30px;
+    background-color: aqua;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+}
+
+
